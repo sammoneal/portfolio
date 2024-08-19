@@ -1,0 +1,38 @@
+﻿Samuel O'Neal
+Full stack experience and a unique perspective.
+	Kirkland, WA
+SamuelONeal@seattlecolleges.edu
+	PROJECTS
+Weather Dashboard — GitHub
+Developed an elegant dashboard app with custom back and front ends. Integrates with several external APIs.
+EXPERIENCE
+Panasonic, Bothell, WA — Business Analyst II
+May 2017 -  April 2020
+Provided guidance on business logic and reporting needs during the development of an improved internal tracking system. Continued to work with developers on improvements during the launch and post launch phases.
+Company, Location — Business Analyst
+June 2015 - April 2017
+Took ownership of the Maintenance Pricing Tool used by the PTS sales team to price airline programs. Delivered multiple improvements that improved pricing accuracy and expanded features.
+Company, Location — Intern
+December 2014 - May 2015
+Wrote scripts to streamline program forecasting and automate integration with Oracle systems.
+EDUCATION
+School Name, Location — Web Development Cert.
+September 2022 - August 2024
+Took a wide variety of courses covering the entire modern web stack.
+School Name, Location — B.A. Economics
+August 2010 - June 2014
+Monetary Economics, Econometrics, International Finance 
+	SKILLS
+* Python inc. Flask & Django
+* HTML
+* CSS
+* Javascript
+* React & jQuery
+* Node.js & Express.js
+* Postgres, MySQL, & Microsoft SQL Server.
+* Program Analysis
+* Business Intelligence.
+AWARDS
+BSA Eagle Scout
+SCCC President's List
+Kappa Alpha Honor Society
