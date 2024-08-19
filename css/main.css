@@ -1,0 +1,10 @@
+.card-img-top {
+    max-width: 500px;
+    width: 100%;
+    height: auto;
+    margin: 1% auto 0; /* Added margin-top for spacing */
+  }
+  .image-container {
+    display: flex;
+    justify-content: center;
+  }
